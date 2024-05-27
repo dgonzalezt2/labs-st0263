@@ -123,3 +123,5 @@ comandos:
 
 
 ## ** Evidencia de la creacion del laboratorio
+
+[Evidencias](https://github.com/dgonzalezt2/labs-st0263/blob/main/Laboratorio%201/st0263-labs1.docx)
