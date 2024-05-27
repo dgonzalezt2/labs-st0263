@@ -120,3 +120,6 @@ comandos:
 ## ** Ver contenido de un archivo
 
 ![Ver archivo](hue-hdfs/hue-11-FileOpen.png)
+
+
+## ** Evidencia de la creacion del laboratorio
